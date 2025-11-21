@@ -13,7 +13,7 @@
 
     <h2>Halo dari halaman baru!</h2>
 
-    <p>Ini contoh halaman PHP yang sangat sederhana.</p>
+    <p>Ayo belajar github bersama.</p>
 
     <p>Nama: <?php echo $nama; ?></p>
     <p>NIM: <?php echo $nim; ?></p>
