@@ -15,6 +15,7 @@
 
     <p>Berikut Biodata diri saya</p>
 
+    <p>menpro</p>
     <p>Nama: <?php echo $nama; ?></p>
     <p>NIM: <?php echo $nim; ?></p>
     <p>Waktu akses: <?php echo $waktu; ?></p>
